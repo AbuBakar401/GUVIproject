@@ -1,6 +1,5 @@
-# Online-Library-Management-System-PHP
-This is a simple Online-Library-Management-System for School and colleges..
-Online library Management System divided in two modules–
+# Online-Library-Management-System
+Instructions for the usage of this project are supplied below
 
 Student
 Admin
